@@ -2,26 +2,26 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "PeanutHost"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  logo = "img/logo-transparent.png"
+  secondaryLogo = "img/logo-transparent.png"
+  description = "Butter smooth performance & stability for the price of peanuts."
+  copyright = "© { year } Peanuthost"
 
-# [params.author]
-#   name = "Your name here"
+[params.author]
+  name = "PeanutHost"
 #   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
+  image = "img/logo-filled.png"
 #   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
+  headline = "Butter smooth performance & stability for the price of peanuts."
+  bio = "Butter smooth performance & stability for the price of peanuts."
+  links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -35,7 +35,7 @@ title = "Blowfish"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+    { github = "https://github.com/PeanutHost" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -51,7 +51,7 @@ title = "Blowfish"
 #     { orcid = "https://orcid.org/userid" },
 #     { patreon = "https://www.patreon.com/username" },
 #     { pinterest = "https://pinterest.com/username" },
-#     { reddit = "https://reddit.com/user/username" },
+    { reddit = "https://www.reddit.com/r/PeanutHost/" },
 #     { researchgate = "https://www.researchgate.net/profile/username" },
 #     { slack = "https://workspace.url/team/userid" },
 #     { snapchat = "https://snapchat.com/add/username" },
@@ -70,4 +70,4 @@ title = "Blowfish"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]
