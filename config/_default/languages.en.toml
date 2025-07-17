@@ -12,7 +12,7 @@ title = "PeanutHost"
   logo = "img/logo-transparent.png"
   secondaryLogo = "img/logo-transparent.png"
   description = "Butter smooth performance & stability for the price of peanuts."
-  copyright = "© { year } Peanuthost"
+  copyright = "© { year } PeanutHost"
 
 [params.author]
   name = "PeanutHost"
