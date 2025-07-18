@@ -15,6 +15,21 @@
   pageRef = "news"
   weight = 10
 
+[[main]]
+  name = "Docs"
+  pageRef = "docs"
+  weight = 20
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 30
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 40
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
@@ -59,11 +74,16 @@
 
 
 [[footer]]
+  name = "Site Info"
+  pageRef = "site-info"
+  weight = 10
+
+[[footer]]
   name = "Tags"
   pageRef = "tags"
-  weight = 10
+  weight = 20
 
 [[footer]]
   name = "Categories"
   pageRef = "categories"
-  weight = 20
+  weight = 30
