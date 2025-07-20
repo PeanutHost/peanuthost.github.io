@@ -8,11 +8,11 @@ showPagination: false
 
 Welcome to the site information page. Here you’ll find everything about how this website works, what’s allowed, and what tools made it possible.
 
-### 📜 Policies
+### Policies
 - [Acceptable Use Policy](../aup/)
 - [Why This Policy](../wtp/)
 
-### 🛠️ FLOSS Credits
+### FLOSS Credits
 - [Free & Open Source Tools](../credits/)
 
 If you have questions, [reach out](../contact/).
