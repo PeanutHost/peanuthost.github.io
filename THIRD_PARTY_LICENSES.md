@@ -3,7 +3,7 @@
 ## Theme: Blowfish (included as a third-party component)
 License: MIT<br>
 Source: https://github.com/nunocoracao/blowfish<br>
-License File: [themes/blowfish/LICENSE](./themes/blowfish/LICENSE) or [included below](#blowfish-license)
+License File: [LICENSE](https://github.com/nunocoracao/blowfish/blob/main/LICENSE) or [included below](#blowfish-license-mit)
 
 ---
 
