@@ -7,7 +7,7 @@ showDateUpdated: true
 showReadingTime: true
 showWordCount: true
 showPagination: false
-categories: ["Policies"]
+categories: ["policies"]
 tags: ["terms-of-service", "tos", "agreement", "legal", "disclaimer", "testing-phase"]
 ---
 

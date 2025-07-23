@@ -7,7 +7,7 @@ showDateUpdated: true
 showReadingTime: true
 showWordCount: true
 showPagination: false
-categories: ["Policies"]
+categories: ["policies"]
 tags: ["privacy", "policy", "compliance", "testing-phase"]
 ---
 
