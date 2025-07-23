@@ -74,7 +74,7 @@
 
 
 [[footer]]
-  name = "Site Info"
+  name = "Site Info & Policies"
   pageRef = "site-info"
   weight = 10
 
