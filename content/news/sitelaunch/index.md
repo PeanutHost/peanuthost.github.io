@@ -5,7 +5,7 @@ draft: false
 description: "Kicking things off with a clean, fast, and stable foundation. The site is live!"
 summary: "Kicking things off with a clean, fast, and stable foundation. The site is live!"
 categories: ["Updates"]
-tags: ["Welcome", "Site Launch", "First"]
+tags: ["welcome", "site-launch", "first"]
 layout: "article"
 ---
 
