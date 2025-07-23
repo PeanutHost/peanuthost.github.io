@@ -1,7 +1,10 @@
 ---
 title: "Free & Open Source Tools"
 description: "Acknowledging the open source projects that made this site possible."
-showDate: false
+date: "2025-07-19"
+lastmod: "2025-07-19"
+showDate: true
+showDateUpdated: true
 showReadingTime: false
 showWordCount: false
 showPagination: false
