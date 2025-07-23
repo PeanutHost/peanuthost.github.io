@@ -3,7 +3,7 @@
 ## Framework: Hugo
 License: Apache-2.0<br>
 Source: https://github.com/gohugoio/hugo<br>
-License File: [LICENSE](https://github.com/gohugoio/hugo/blob/master/LICENSE) or [included below](#hugo-license-apache2.0)
+License File: [LICENSE](https://github.com/gohugoio/hugo/blob/master/LICENSE) or [included below](#hugo-license-apache-20)
 
 ## Theme: Blowfish (included as a third-party component)
 License: MIT<br>
