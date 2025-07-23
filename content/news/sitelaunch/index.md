@@ -4,7 +4,7 @@ date: '2025-07-17'
 draft: false
 description: "Kicking things off with a clean, fast, and stable foundation. The site is live!"
 summary: "Kicking things off with a clean, fast, and stable foundation. The site is live!"
-categories: ["Updates"]
+categories: ["updates"]
 tags: ["welcome", "site-launch", "first"]
 layout: "article"
 ---
