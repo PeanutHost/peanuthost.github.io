@@ -1,4 +1,4 @@
-# peanuthost.net
+# PeanutHost's official website
 
 ## License
 
