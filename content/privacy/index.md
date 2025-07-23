@@ -7,6 +7,8 @@ showDateUpdated: true
 showReadingTime: true
 showWordCount: true
 showPagination: false
+categories: ["Policies"]
+tags: ["privacy", "policy", "compliance", "testing-phase"]
 ---
 
 We collect only the data necessary to provide the service, improve the testing experience, and communicate with you.

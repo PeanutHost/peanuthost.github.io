@@ -7,6 +7,8 @@ showDateUpdated: true
 showReadingTime: true
 showWordCount: true
 showPagination: false
+categories: ["Policies"]
+tags: ["acceptable-use", "aup", "rules", "conduct", "compliance", "testing-phase"]
 ---
 
 ## 🧭 Why These Rules Exist

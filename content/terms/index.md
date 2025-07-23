@@ -7,6 +7,8 @@ showDateUpdated: true
 showReadingTime: true
 showWordCount: true
 showPagination: false
+categories: ["Policies"]
+tags: ["terms-of-service", "tos", "agreement", "legal", "disclaimer", "testing-phase"]
 ---
 
 This service is provided on a testing basis and may change, experience downtime, or become unavailable at any time without notice.
